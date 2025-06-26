@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6246","test_checkout","tests","Wed Jun 25 10:17:06 IST 2025","passed","Wed Jun 25 10:17:12 IST 2025","TestCheckout","test_checkout","",""
+"","5085","test_cart","tests","Wed Jun 25 10:16:55 IST 2025","passed","Wed Jun 25 10:17:01 IST 2025","TestCart","test_cart","",""
+"","506","test_with_invalid_credits","tests","Wed Jun 25 10:17:31 IST 2025","passed","Wed Jun 25 10:17:32 IST 2025","TestLogin","test_login","",""
+"","2256","test_with_valid_credits","tests","Wed Jun 25 10:17:24 IST 2025","passed","Wed Jun 25 10:17:26 IST 2025","TestLogin","test_login","",""
+"","534","test_with_empty_credits","tests","Wed Jun 25 10:17:37 IST 2025","passed","Wed Jun 25 10:17:37 IST 2025","TestLogin","test_login","",""
+"","2619","test_home","tests","Wed Jun 25 10:17:17 IST 2025","passed","Wed Jun 25 10:17:19 IST 2025","TestHome","test_home","",""
